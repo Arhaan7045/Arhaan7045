@@ -199,16 +199,6 @@ Status
 
 ═════════════════════════════════════════════════════════════════════════════════════════
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arhaan7045&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
-═════════════════════════════════════════════════════════════════════════════════════════
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -217,17 +207,8 @@ Status
 
 ═════════════════════════════════════════════════════════════════════════════════════════
 
-# Daily Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-═════════════════════════════════════════════════════════════════════════════════════════
-
 <div align="center">
 
-### 🔒 End Transmission
-
-*"Every expert was once a beginner who refused to quit."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:6D28D9,100:8B5CF6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&text=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Securing&fontSize=28&fontColor=FFFFFF&fontAlignY=70&desc=Cybersecurity%20is%20a%20journey%20of%20continuous%20learning.&descAlignY=55&descSize=16&color=0:0F0C29,30:302B63,70:6D28D9,100:C084FC"/>
 
 </div>

@@ -49,10 +49,10 @@ Education   : BSc CS | MCA Student
 Location    : India
 
 Current Focus
-├── Linux
+├── Cybersecurity
 ├── Networking
-├── Java
-└── Cybersecurity
+├── Linux
+└── Python
 
 Goal
 └── Security Engineer

@@ -132,19 +132,20 @@ Open To
 
 | Module | Status |
 |--------|:------:|
-| 🐧 Linux | ✅ |
+| 🐧 Linux Fundamentals | ✅ |
+| 👤 Users & Groups | ✅ |
+| 🔐 Linux Permissions | ✅ |
 | 📖 Learning Logs | ✅ |
-| 📸 Screenshots | ✅ |
-| 🔍 Linux Log Investigation | ✅ |
+| 📸 Practical Screenshots | ✅ |
+| 🔍 Linux Investigations | ✅ |
 | 🌐 Networking | 🔄 |
 | 🐍 Python | 🔄 |
-| 🛠 Security Projects | 🔄 |
 
 ### 📌 Latest Update
 
 ```
-EP-004 Linux Log Investigation
-Currently Learning → Users & Permissions
+EP-005 Users, Groups & Permissions
+Currently Learning → Processes & Process Management
 ```
 
 ### 🔗 Repository
@@ -195,7 +196,11 @@ Currently Learning → Users & Permissions
 
 ✔ Git & GitHub
 
-⬜ Users & Permissions
+✔ Users & Groups
+
+✔ Linux Permissions
+
+⬜ Processes & Process Management
 
 ⬜ Networking Basics
 

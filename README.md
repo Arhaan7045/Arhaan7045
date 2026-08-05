@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Aspiring+Security+Engineer;Linux+Explorer;Networking+Learner;Always+Learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;Linux+•+Networking+•+Python;Building+Security+Projects;Always+Learning.+Always+Improving.)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,12 +28,16 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arhaan-shaikh-289aa8263/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/arhaan-shaikh-289aa8263/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
 <a href="mailto:arhaan.s7045@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1ordQaAWM9qM0SSd9f9hS6dW4o70kLxk0/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
@@ -44,22 +48,28 @@
 root@arhaan:~$ whoami
 
 Name        : Arhaan Shaikh
-Role        : Cybersecurity Enthusiast
-Education   : BSc CS | MCA Student
+Role        : Aspiring Cybersecurity Engineer
+Education   : B.Sc. Computer Science
+Current     : MCA Student
 Location    : India
 
-Current Focus
-├── Cybersecurity
-├── Networking
-├── Linux
+Currently Building
+├── Cybersecurity Portfolio
+├── Learning Documentation
+├── Practical Labs
+└── Security Projects
+
+Currently Studying
+├── Linux Fundamentals
+├── Computer Networking
+├── Git & GitHub
 └── Python
 
 Goal
 └── Security Engineer
 
-Status
-└── Looking for Internship
-└── Looking for Junior Roles
+Open To
+└── Entry-Level Security Roles
 ```
 
 <br>
@@ -85,23 +95,17 @@ Status
 
 <br>
 
-# 🎯 Mission
+# 🎯 2026 Goals
 
-🟣 Learn Linux deeply
-
-🟣 Master Computer Networking
-
-🟣 Build Security Projects
-
-🟣 Complete TryHackMe Rooms
-
-🟣 Learn Python for Security
-
-🟣 Start Bug Bounty
-
-🟣 Contribute to Open Source
-
-🟣 Land my first Cybersecurity Internship
+- [x] Start Cybersecurity Journey
+- [x] Build GitHub Portfolio
+- [x] Learn Git & GitHub
+- [ ] Master Linux
+- [ ] Master Networking
+- [ ] Learn Python
+- [ ] Complete TryHackMe Learning Paths
+- [ ] Build 10+ Security Projects
+- [ ] Land Cybersecurity Internship
 
 <br>
 
@@ -109,14 +113,43 @@ Status
 
 <br>
 
-## 📊 Current Training
 
-| Topic | Progress |
-|--------|----------|
-| 🐧 Linux | 🟪🟪🟪⬜⬜ |
-| 🌐 Networking | 🟪🟪⬜⬜⬜ |
-| 🛡 Cybersecurity | 🟪⬜⬜⬜⬜ |
-| 🐍 Python | ⬜⬜⬜⬜⬜ |
+# 🛡️ Flagship Project
+
+<div align="center">
+
+## Cybersecurity Portfolio
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_UPDATED-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FOCUS-LINUX%20•%20NETWORKING%20•%20SECURITY-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+> A hands-on cybersecurity portfolio documenting my journey from beginner to Security Engineer through practical labs, documentation, learning logs and security projects.
+
+### 📂 Repository Highlights
+
+| Module | Status |
+|--------|:------:|
+| 🐧 Linux | ✅ |
+| 📖 Learning Logs | ✅ |
+| 📸 Screenshots | ✅ |
+| 🔍 Linux Log Investigation | ✅ |
+| 🌐 Networking | 🔄 |
+| 🐍 Python | 🔄 |
+| 🛠 Security Projects | 🔄 |
+
+### 📌 Latest Update
+
+```
+EP-004 Linux Log Investigation
+Currently Learning → Users & Permissions
+```
+
+### 🔗 Repository
+
+**https://github.com/Arhaan7045/Cybersecurity_Portfolio**
 
 <br>
 
@@ -124,7 +157,7 @@ Status
 
 <br>
 
-# ⚔ Tech Arsenal
+# ⚔️ Tech Arsenal
 
 <div align="center">
 
@@ -136,66 +169,39 @@ Status
 
 <img src="https://skillicons.dev/icons?i=linux,windows"/>
 
-### Development
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-### Learning
+### Platforms
 
-<img src="https://img.shields.io/badge/Cybersecurity-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Networking-7C3AED?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge"/>
 
 </div>
 
-
 <br>
 
 ---
 
 <br>
 
-# 🚀 Building Soon
+# 📚 Currently Learning
 
-🔹 Linux Command Handbook
+✔ Linux Fundamentals
 
-🔹 Networking Cheatsheets
+✔ File System
 
-🔹 Password Generator
+✔ Navigation
 
-🔹 Port Scanner
+✔ Git & GitHub
 
-🔹 Password Strength Checker
+⬜ Users & Permissions
 
-🔹 Log Analyzer
+⬜ Networking Basics
 
-🔹 TryHackMe Notes
+⬜ Bash Scripting
 
-🔹 Cybersecurity Roadmap
-
-🔹 Bash Utilities
-
-<br>
-
----
-
-<br>
-
-## 🏆 Future Certifications
-
-⬜ Google Cybersecurity
-
-⬜ Security+
-
-⬜ eJPT
-
-⬜ PNPT
-
-⬜ CEH
-
-⬜ OSCP
+⬜ Python
 
 <br>
 

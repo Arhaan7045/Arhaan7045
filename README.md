@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1ordQaAWM9qM0SSd9f9hS6dW4o70kLxk0/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1OgThSdbwqbpWfB8Nqk0tC27hgMRb07kV/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
@@ -179,6 +179,32 @@ Currently Learning → Processes & Process Management
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge"/>
 
 </div>
+
+<br>
+
+---
+
+<br>
+
+# 🏆 Certifications & Training
+
+### ✅ Completed
+
+**Deloitte Australia Cyber Job Simulation — Forage**  
+August 2026
+
+- Web activity log analysis
+- Cybersecurity breach investigation
+- Identifying suspicious user activity
+
+### 🎯 Future
+
+⬜ Google Cybersecurity  
+⬜ Security+  
+⬜ eJPT  
+⬜ PNPT  
+⬜ CEH  
+⬜ OSCP
 
 <br>
 

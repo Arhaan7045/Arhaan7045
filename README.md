@@ -243,12 +243,12 @@ August 2026
 # 📊 GitHub Analytics
 
 <div align="center">
+  
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Arhaan7045&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arhaan7045&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arhaan7045&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arhaan7045&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Arhaan7045&theme=midnight-purple&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Arhaan7045&theme=midnight-purple&hide_border=true" />
 
 </div>
 

@@ -186,25 +186,36 @@ Currently Learning → Processes & Process Management
 
 <br>
 
-# 🏆 Certifications & Training
+# 🏆 Certifications & Virtual Experience
 
-### ✅ Completed
+## ✅ Completed
 
-**Deloitte Australia Cyber Job Simulation — Forage**  
-August 2026
+<p>
+<img src="https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
+&nbsp;
+<strong>Deloitte Australia Cyber Job Simulation</strong> — Forage · 2026
+</p>
 
-- Web activity log analysis
-- Cybersecurity breach investigation
-- Identifying suspicious user activity
+<p>
+<img src="https://img.shields.io/badge/Mastercard-EB001B?style=flat-square&logo=mastercard&logoColor=white"/>
+&nbsp;
+<strong>Mastercard Cybersecurity Virtual Experience Program</strong>, Forage · 2026
+</p>
 
-### 🎯 Future
+<p>
+<img src="https://img.shields.io/badge/Tata-005BAC?style=flat-square&logo=tata&logoColor=white"/>
+&nbsp;
+<strong>Tata Cybersecurity Security Analyst Job Simulation</strong> — Forage · 2026
+</p>
 
-⬜ Google Cybersecurity  
-⬜ Security+  
-⬜ eJPT  
-⬜ PNPT  
-⬜ CEH  
-⬜ OSCP
+## 🎯 Future
+
+- 🟪 Google Cybersecurity
+- 🟪 Security+
+- 🟪 eJPT
+- 🟪 PNPT
+- 🟪 CEH
+- 🟪 OSCP
 
 <br>
 
@@ -240,23 +251,6 @@ August 2026
 
 <br>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Arhaan7045&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arhaan7045&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Arhaan7045&theme=midnight-purple&hide_border=true" />
-
-</div>
-
-<br>
-
----
-
-<br>
 
 ## 📈 Activity Graph
 

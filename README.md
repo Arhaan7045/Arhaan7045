@@ -86,7 +86,7 @@ Open To
 - 🐧 Learning Linux one command at a time
 - 🌐 Building strong networking fundamentals
 - 📚 Learning through hands-on practice
-- 🚀 Improving every day with consistent commits
+- 🚀 Improving through consistent hands-on practice
 - 🔒 Focused on long-term growth rather than shortcuts
 
 <br>
@@ -114,15 +114,15 @@ Open To
 <br>
 
 
-# 🛡️ Flagship Project
+# 🚀 Featured Project
 
 <div align="center">
 
-## Cybersecurity Portfolio
+## 🛡️ Cybersecurity Portfolio
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY_UPDATED-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20UPDATED-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FOCUS-LINUX%20•%20NETWORKING%20•%20SECURITY-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-LINUX%20%7C%20NETWORKING%20%7C%20SECURITY-8B5CF6?style=for-the-badge"/>
 
 </div>
 
@@ -131,21 +131,26 @@ Open To
 ### 📂 Repository Highlights
 
 | Module | Status |
-|--------|:------:|
+|---|---|
 | 🐧 Linux Fundamentals | ✅ |
-| 👤 Users & Groups | ✅ |
+| 👥 Users & Groups | ✅ |
 | 🔐 Linux Permissions | ✅ |
-| 📖 Learning Logs | ✅ |
+| 📝 Learning Logs | ✅ |
 | 📸 Practical Screenshots | ✅ |
-| 🔍 Linux Investigations | ✅ |
-| 🌐 Networking | 🔄 |
-| 🐍 Python | 🔄 |
+| 🔎 Linux Investigations | 🔄 |
+| 🌐 Networking | ⏳ |
+| 🐍 Python Security Tools | ⏳ |
 
 ### 📌 Latest Update
 
-```
-EP-005 Users, Groups & Permissions
-Currently Learning → Processes & Process Management
+```text
+EP-001 → EP-010 Linux Fundamentals ✅
+
+Currently:
+→ Checkpoint: Linux recap + SOC investigation 🔄
+
+Next:
+→ EP-011 Linux Networking Commands
 ```
 
 ### 🔗 Repository
@@ -190,60 +195,25 @@ Currently Learning → Processes & Process Management
 
 ## ✅ Completed
 
-<p>
-<img src="https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
-&nbsp;
-<strong>Deloitte Australia Cyber Job Simulation</strong> — Forage · 2026
-</p>
+**Deloitte Australia Cyber Job Simulation** — Forage · 2026
 
-<p>
-<img src="https://img.shields.io/badge/Mastercard-EB001B?style=flat-square&logo=mastercard&logoColor=white"/>
-&nbsp;
-<strong>Mastercard Cybersecurity Virtual Experience Program</strong>, Forage · 2026
-</p>
+**Mastercard Cybersecurity Virtual Experience Program** — Forage · 2026
 
-<p>
-<img src="https://img.shields.io/badge/Tata-005BAC?style=flat-square&logo=tata&logoColor=white"/>
-&nbsp;
-<strong>Tata Cybersecurity Security Analyst Job Simulation</strong> — Forage · 2026
-</p>
+**Tata Cybersecurity Security Analyst Job Simulation** — Forage · 2026
 
 ## 🎯 Future
 
-- 🟪 Google Cybersecurity
-- 🟪 Security+
-- 🟪 eJPT
-- 🟪 PNPT
-- 🟪 CEH
-- 🟪 OSCP
+⬜ Google Cybersecurity
 
-<br>
+⬜ Security+
 
----
+⬜ eJPT
 
-<br>
+⬜ PNPT
 
-# 📚 Currently Learning
+⬜ CEH
 
-✔ Linux Fundamentals
-
-✔ File System
-
-✔ Navigation
-
-✔ Git & GitHub
-
-✔ Users & Groups
-
-✔ Linux Permissions
-
-⬜ Processes & Process Management
-
-⬜ Networking Basics
-
-⬜ Bash Scripting
-
-⬜ Python
+⬜ OSCP
 
 <br>
 
